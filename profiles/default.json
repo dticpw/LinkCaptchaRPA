@@ -1,0 +1,35 @@
+{
+  "profile_name": "default",
+  "chat_link_region": {
+    "x": 600,
+    "y": 220,
+    "w": 620,
+    "h": 560
+  },
+  "captcha_region": {
+    "x": 900,
+    "y": 340,
+    "w": 180,
+    "h": 80
+  },
+  "captcha_input_point": {
+    "x": 980,
+    "y": 470
+  },
+  "submit_button_point": {
+    "x": 1040,
+    "y": 530
+  },
+  "link_color_hsv_lower": [
+    90,
+    45,
+    80
+  ],
+  "link_color_hsv_upper": [
+    130,
+    255,
+    255
+  ],
+  "browser_wait_seconds": 2.5,
+  "click_duration_seconds": 0.05
+}
